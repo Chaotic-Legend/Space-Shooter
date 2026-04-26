@@ -49,7 +49,7 @@ Reminder on the difference between the starting state and the reference files:
 
 <ins> Starting state description </ins>
 <br>
-
+The starting state file for this task includes a newly created 2D Godot project that includes a curated collection of space shooter assets, providing the basis for developing a complete arcade-style shooting game. The project will use sprite assets for a player spaceship, enemy ships, laser projectiles, power-ups, and background elements such as stars to create a dynamic space environment. To support gameplay feedback, the assets also include sound effects for shooting, hits, and explosions, as well as a sci-fi styled font suitable for UI elements. The Employee is responsible for building the space shooter game using the provided assets by setting up player, enemy, and projectile scenes with appropriate nodes, collision shapes, and animations. The Employee must implement player controls for movement and shooting, enemy spawning and behavior, projectile interactions, and power-up collection systems. This task includes defining input actions, attaching scripts to control gameplay behavior, configuring collision detection for hits and damage, and integrating audio feedback for actions such as firing and explosions. The reference materials demonstrate how to use the included assets to create a gameplay experience that supports responsive controls, engaging combat interactions, and a complete space shooter game.
 
 ### **Overall context** ###
 Finally, include context on this task and why it is realistic and representative of real-life work:
@@ -58,7 +58,7 @@ Finally, include context on this task and why it is realistic and representative
 
 <ins> Task context </ins>
 <br>
-
+This task is a realistic and representative assignment for a junior-level developer, as it involves implementing core mechanics of a 2D space shooter within a structured, asset-driven game environment, including player movement, shooting systems, enemy behavior, projectile interactions, collision detection, and basic game flow. It requires applying foundational programming, problem-solving, and design skills to translate gameplay requirements into functional systems while integrating movement, combat mechanics, visual feedback, audio cues, and user input into a cohesive experience. This project mirrors typical real-world development practices, in which developers prototype new gameplay styles, structure scenes and assets, and build systems in a modular, extensible manner to enable future growth and enhancements. By defining the core gameplay idea, this task creates a modular framework to support upcoming features, including expanded enemy variety, new weapons, equipment upgrades, and more UI elements.
 
 <ins> Rubric Items </ins>
 <br>
