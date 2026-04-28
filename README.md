@@ -129,5 +129,9 @@ This task is a realistic and representative assignment for a junior-level develo
 17. A high score tracker displays and updates on the game-over screen.
 - Run the main scene, achieve a new high score, and observe that the high score updates and displays on the game-over screen.
 - The task prompt requires a high score tracker that updates and displays the player's highest score on the game-over screen.
+
+18. The enemy spaceships spawn from the top and move downward.
+- Run the main scene and observe that enemy spaceships spawn from the top and move downward at different horizontal locations.
+- The task prompt requires enemy spaceships to spawn from the top of the screen and move downward at varied positions and intervals.
 <br>
 Godot - https://feather.openai.com/tasks/c5ef53e1-fc47-4853-9f11-68613211fe7c/stage/prompt_creation - Awaiting response.
