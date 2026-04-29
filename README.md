@@ -103,11 +103,11 @@ This task is a realistic and representative assignment for a junior-level develo
 
 8. Fast-moving enemy spaceships are destroyed by one laser projectile.
 - Run the main scene, locate a fast-moving enemy spaceship, and shoot it once to confirm that the player character destroys it.
-- The task prompt requires fast-moving enemy spaceships to be destroyed by a single laser projectile.
+- The task prompt requires the player character to destroy fast-moving enemy spaceships with a single laser projectile.
 
 9. Slow-moving enemy spaceships get destroyed by two laser projectiles.
 - Run the main scene, locate a slow-moving enemy spaceship, and shoot it twice to confirm that the player character destroys it.
-- The task prompt requires slow-moving enemy spaceships to be destroyed by two laser projectiles.
+- The task prompt requires the player character to destroy slow-moving enemy spaceships with two laser projectiles.
 
 10. Enemy spaceships register hits from lasers and play a hit sound effect.
 - Run the main scene, shoot any enemy spaceship, and observe that each hit registers and plays a hit sound effect.
