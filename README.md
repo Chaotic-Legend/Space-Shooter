@@ -28,7 +28,16 @@ Reminder on the difference between reference and starting state files:
 
 <ins> Task prompt (ask the Employee) </ins>
 <br>
+We are beginning development of a vertical-scrolling 2D space shooter game that will incorporate dynamic sound effects, responsive controls, and engaging enemy interactions to create an arcade-style gameplay experience. Your task is to design and implement a complete player and gameplay system using a small spaceship sprite colored blue and grey, establishing the foundation for combat mechanics, scoring, and game flow. The system should prioritize responsiveness, clarity, and consistency by incorporating well-structured keyboard input handling, accurate collision detection, and a stable camera system that maintains a clear vertical gameplay perspective. All visual assets, including the player spaceship, enemy ships, level background, and environment props, must render sharply and clearly without distortion, preserving the crisp visual quality expected in a pixel-art space environment. The level background must depict outer space with purple stars and fast-moving particle effects to enhance the sense of motion and immersion. The completed system must support the following behaviors:
 
+- The player can move freely in all directions using the arrow keys and stops immediately when input is released.
+- The player can fire red laser projectiles that include appropriate shooting and hit sound effects.
+- Enemy interactions support distinct behaviors, including varied durability, movement patterns, and point values.
+- A responsive scoring system increments points in real time whenever the player destroys enemy spaceships.
+- Dedicated key inputs enable the player to restart the game or close the application as needed.
+- A complete gameplay loop includes a game-over screen with a final score display and a high score tracker.
+
+You will set up the necessary nodes, apply the spaceship sprite, configure movement and shooting mechanics, and implement enemy behaviors, scoring systems, and UI elements. The player must interact correctly with the environment through properly configured collision bodies, ensuring accurate interaction with enemies and level boundaries. The environment must support continuous enemy spawning from the top of the screen, with ships moving downward to create constant gameplay pressure. Enemy interactions should feel immediate and responsive, with clear audiovisual feedback for hits, destruction, and collisions. The score display should remain visible and update continuously during gameplay, while the game-over screen should clearly show both the final score and the highest score achieved. Overall behavior should demonstrate responsive controls, accurate collision handling, clear visual feedback, and a polished gameplay loop that supports continuous play, scoring progression, and replayability in a fast-paced space shooter experience.
 
 <ins> Which of the following best fits this task? </ins>
 <br>
