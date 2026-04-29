@@ -3,7 +3,7 @@
 # Space Shooter | Project Touchstone #
 [How To Make A Space Shooter Game In Godot 4 (Complete Tutorial)](https://www.youtube.com/watch?v=QoNukqpolS8) by [Kaan Alpar](https://www.youtube.com/@KaanAlpar) ([GitHub](https://github.com/KaanAlpar))
 
-
+This video tutorial provides a structured, beginner-friendly walkthrough of building a 2D space shooter in the Godot Engine, guiding viewers through the core systems required to create a functional player-controlled spaceship and gameplay replayability. It introduces and applies key concepts, including node-based scene organization, collision setup, input mapping, laser projectile mechanics, reset and game over states, and real-time scoring systems. This Godot tutorial also covers essential gameplay features, including enemy spawning and movement, hit detection, destruction logic, score tracking, and the use of sound effects for shooting, hits, and explosions to enhance the experience. It also served as the foundation for completing a structured implementation task on Feather, with the project integrated into the wider development workflow supporting the Handshake AI Project Touchstone initiative.
 
 # Assets #
 [Space Shooter Assets](https://github.com/KaanAlpar/space_shooter_tutorial/tree/main/assets) by [Kaan Alpar](https://www.udemy.com/user/kaan-alpar-22/?srsltid=AfmBOopc6_i27wdigRNqzacgR7e7PI6f2ek_Msq-WUUtZor3aF4czmn9) ([GameDev.tv](https://gamedev.tv/courses/godot-2d?ref=mzfizgj))
