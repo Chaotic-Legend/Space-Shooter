@@ -9,6 +9,8 @@ This video tutorial provides a structured, beginner-friendly walkthrough of buil
 [Space Shooter Assets](https://github.com/KaanAlpar/space_shooter_tutorial/tree/main/assets) by [Kaan Alpar](https://www.udemy.com/user/kaan-alpar-22/?srsltid=AfmBOopc6_i27wdigRNqzacgR7e7PI6f2ek_Msq-WUUtZor3aF4czmn9) ([GameDev.tv](https://gamedev.tv/courses/godot-2d?ref=mzfizgj))
 
 ![Sprite Asset](assets/textures/playerShip1_blue.png)
+![Sprite Asset](assets/textures/spaceShips_001.png)
+![Sprite Asset](assets/textures/spaceShips_004.png) 
 
 # Create a Godot task #
 <ins> What application is this task for? </ins>
